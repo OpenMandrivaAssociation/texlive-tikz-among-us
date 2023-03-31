@@ -1,6 +1,6 @@
 Name:		texlive-tikz-among-us
 Version:	60880
-Release:	1
+Release:	2
 Summary:	Create some AmongUs characters in TikZ environments
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-among-us
