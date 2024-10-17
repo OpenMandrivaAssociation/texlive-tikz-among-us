@@ -3,7 +3,7 @@ Version:	60880
 Release:	2
 Summary:	Create some AmongUs characters in TikZ environments
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-among-us
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tikz-among-us
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-among-us.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-among-us.doc.r%{version}.tar.xz
